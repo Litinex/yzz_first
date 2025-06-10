@@ -1,0 +1,15 @@
+val: D:\nwpu vhr-10\val.txt
+train: D:\nwpu vhr-10\train.txt
+test: D:\nwpu vhr-10\test.txt
+names:
+- airplane
+- ship
+- storage tank
+- baseball diamond
+- tennis court
+- basketball court
+- ground track field
+- harbor
+- bridge
+- vehicle
+nc: 10
